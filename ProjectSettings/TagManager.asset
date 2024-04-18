@@ -9,6 +9,11 @@ TagManager:
   - Enemy
   - World
   - NoMask
+  - Object
+  - Room
+  - SpawnPoint
+  - Rooms
+  - Glasses
   layers:
   - Default
   - TransparentFX
@@ -16,7 +21,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Objects
   - 
   - Obstacles
   - Ground
